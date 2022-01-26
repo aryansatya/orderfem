@@ -11,7 +11,6 @@ body{
   border-radius: 15px 15px 0px 0px;
 }
 
-
 .box1{
   margin: 0;
   text-align: center;
@@ -26,7 +25,6 @@ h1{
   font-family: sans-serif;
   text-align: center;
   color: #002266;
-
 
 }
 
@@ -96,4 +94,16 @@ p{
   color: #7733ff;
   background-color: white;
   border: 2px solid #7733ff;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  position: relative;
+  margin: 150px;
+  bottom: 0;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
