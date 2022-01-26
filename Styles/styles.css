@@ -1,7 +1,6 @@
 body{
   background-color: #e6e6ff;
   margin: 0;
-  
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -78,7 +77,7 @@ h1{
 
 .all{
   position: relative;
-  top: 50px;
+  top: 100px;
 }
 
 p{
