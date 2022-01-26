@@ -1,0 +1,102 @@
+body{
+  background-color: #e6e6ff;
+  margin: 0;
+  background-image: url("file:///C:/Users/aryan/OneDrive/Desktop/order-summary-component-main/images/pattern-background-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.pic{
+  background-color: red;
+  width: 450px;
+  height: 200px;
+  border-radius: 15px 15px 0px 0px;
+  background-image: url("file:///C:/Users/aryan/OneDrive/Desktop/order-summary-component-main/images/illustration-hero.svg");
+}
+
+
+.box1{
+  margin: 0;
+  text-align: center;
+  background-color: white;
+  width: 450px;;
+  height: 460px;
+  border-radius: 0px 0px 20px 20px;
+}
+
+h1{
+  margin: 0;
+  font-family: sans-serif;
+  text-align: center;
+  color: #002266;
+
+
+}
+
+.middle{
+  text-align: center;
+  width: 80%;
+  margin-left: 10%;
+  font-size: 17px;
+  color: #666666;
+  font-weight: normal;
+}
+
+.payment{
+  border-radius: 10px 10px 10px 10px;
+  background-color: #f2f2f2;
+  width: 80%;
+  text-align: center;
+  position: relative;
+  margin: auto;
+  padding: 3%;
+}
+
+.cost{
+  width: 100px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+}
+
+.change{
+  width: 55%;
+  text-align: right;
+  color: #6600cc;
+  font-family: 'Karla', sans-serif;
+}
+
+.proceed{
+  border-radius: 10px 10px 10px 10px;
+  padding: 0.1%;
+  margin: auto;
+  background-color: #7733ff;
+  text-align: center;
+  width: 80%;
+  font-family: 'Karla', sans-serif;
+  font-weight: bold;
+  color: white;
+  filter: drop-shadow(1px 10px 10px #b3b3e6);
+}
+
+.all{
+  position: relative;
+  top: 50px;
+}
+
+p{
+  font-family: 'Karla', sans-serif;
+  font-weight: bolder;
+  font-size: 15px;
+}
+
+.money{
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  color: #666666;
+}
+
+.proceed:hover{
+  color: #7733ff;
+  background-color: white;
+  border: 2px solid #7733ff;
+}
