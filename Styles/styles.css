@@ -10,7 +10,7 @@ body{
   width: 450px;
   height: 200px;
   border-radius: 15px 15px 0px 0px;
-  background-image: url("https://raw.githubusercontent.com/aryansatya/orderfem/9a198f534eaab0d04a52b6dbca28eaf16e800727/images/illustration-hero.svg");
+  background-image: url("/images/illustration-hero.svg");
 }
 
 
