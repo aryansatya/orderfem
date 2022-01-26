@@ -1,7 +1,7 @@
 body{
   background-color: #e6e6ff;
   margin: 0;
-  background-image: url("../images/pattern-background-desktop.svg");
+  
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -10,7 +10,6 @@ body{
   width: 450px;
   height: 200px;
   border-radius: 15px 15px 0px 0px;
-  background-image: url("../images/illustration-hero.svg");
 }
 
 
